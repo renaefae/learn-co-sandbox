@@ -1,12 +1,8 @@
-var name = "Gwynevere";
-var height = 74;
+var word; 
+var word = "bird";
+console.log(word);
 
-console.log("Name:")
-console.log(name)
 
-console.log("Height:")
-console.log(height + 5)
 
-// Don't worry about this
-module.exports = { name, height
-}
+
+

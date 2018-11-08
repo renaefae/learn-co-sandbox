@@ -1,5 +1,5 @@
-var name = "Gwynevere"
-var height = 74
+var name = "Gwynevere";
+var height = 74;
 
 console.log("Name:")
 console.log(name)

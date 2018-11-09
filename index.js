@@ -1,9 +1,9 @@
-function say(greeting, firstName) {
+function sayHi(greeting, firstName) {
   console.log("I was called!")
   return `${greeting}, ${firstName}!` 
   
 }
 
-say("Howdy", "partner"); 
+sayHi("Hello", "World?"); 
 
 

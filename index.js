@@ -5,4 +5,7 @@ function myFunction (){
   console.log(x); 
 }
 
-console.log(y); 
+myFunction(); 
+console.log(y) ; 
+console.log(x) ; 
+

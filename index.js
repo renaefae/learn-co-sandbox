@@ -1,7 +1,6 @@
-function speaker(){
-  var sentence = "I sprained my ankle."; 
-  console.log(sentence); 
-} 
+function myFunction (){
+  y = 2 ; 
+  console.log(y); 
+}
 
-
-speaker(); 
+myFunction() ; 

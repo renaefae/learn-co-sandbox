@@ -1,5 +1,5 @@
 const cats = ["meow", "sparkles", "paws"] ; 
 console.log(cats.length); 
-console.log(cast.length=1); 
+console.log(cats.length=1); 
 
 

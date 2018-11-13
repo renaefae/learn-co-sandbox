@@ -1,5 +1,0 @@
-const cats = ["meow", "sparkles", "paws"] 
-cats.length; 
-
-
-
